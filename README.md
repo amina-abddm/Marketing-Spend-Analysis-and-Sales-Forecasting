@@ -1,5 +1,4 @@
-# 📊 Impact of Advertising Spend on Sales
-
+# 💡 Impact des investissements marketing sur les ventes
 **Prédire les ventes à partir des investissements publicitaires**
 
 ---
@@ -45,6 +44,8 @@ L’objectif est d’exploiter ces données afin de construire un **modèle de p
 
 Le dataset contient 200 observations et 4 variables :
 
+```bash
+
 | Variable    | Description                                  |
 |------------|----------------------------------------------|
 | TV         | Budget investi en publicité TV               |
@@ -54,6 +55,8 @@ Le dataset contient 200 observations et 4 variables :
 
 Le dataset brut est disponible dans :  
 `data/raw/advertising.csv`
+
+```
 
 ---
 
@@ -106,6 +109,8 @@ Le dataset brut est disponible dans :
 
 ## 🧱 Structure du projet
 
+```bash
+
 Marketing-Spend-Analysis-and-Sales-Forecasting/
 │
 ├── data/
@@ -123,6 +128,7 @@ Marketing-Spend-Analysis-and-Sales-Forecasting/
 │   └── linear_regression_sales.pkl
 │
 └── README.md
+```
 
 ---
 
@@ -141,7 +147,3 @@ Marketing-Spend-Analysis-and-Sales-Forecasting/
 
 Ce projet illustre un **pipeline complet d’analyse de données et de modélisation prédictive**, depuis l’exploration des données jusqu’à l’utilisation concrète d’un modèle de machine learning.  
 Il met en évidence l’importance de la TV dans la génération des ventes et démontre l’efficacité d’une régression linéaire pour ce type de problématique métier.
-
----
-
-📌 *Projet réalisé dans un objectif de démonstration et de mise en vitrine data analyst / data science.*
