@@ -44,9 +44,7 @@ L’objectif est d’exploiter ces données afin de construire un **modèle de p
 
 Le dataset contient 200 observations et 4 variables :
 
-```bash
-
-| Variable    | Description                                  |
+| Variable    | Description                                 |
 |------------|----------------------------------------------|
 | TV         | Budget investi en publicité TV               |
 | Radio      | Budget investi en publicité Radio            |
@@ -55,8 +53,6 @@ Le dataset contient 200 observations et 4 variables :
 
 Le dataset brut est disponible dans :  
 `data/raw/advertising.csv`
-
-```
 
 ---
 
